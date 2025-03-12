@@ -2,4 +2,4 @@
 <br>
 fully responsive amazon clone
 <br>
-author: sunidhi
+author: sunidhi rajput 
